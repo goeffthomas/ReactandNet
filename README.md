@@ -1,5 +1,5 @@
 # ReactandNet
-VERY basic integration of .NET with React in the same VS solution
+VERY basic integration of .NET with React in the same VS solution with separate projects
 
 ## Steps to run
 1. Open Command Prompt and navigate to C:
